@@ -123,3 +123,4 @@ keep_current_path() {
 }
 precmd_functions+=(keep_current_path)
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+
